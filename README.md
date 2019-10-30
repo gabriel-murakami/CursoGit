@@ -1,2 +1,2 @@
 # CursoGit
-
+git pull
